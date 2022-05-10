@@ -7,18 +7,18 @@
 
 
 
-<a href="https://nodei.co/npm/moonbotlist.js"><img src="https://nodei.co/npm/moonbotlist.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+<a href="https://nodei.co/npm/moonapi.js"><img src="https://nodei.co/npm/moonapi.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 
 ## Installation
 *If you have trouble with the installation, please feel free to visit our [discord](https://moonbotlist.ga/dc) address.*
-- `npm i moonbotlist.js`
+- `npm i moonapi.js`
 
 # Define Module & Client
 ```js
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const moonbotlist = require("moonbotlist.js");
-const dbl = new moonbotlist("TOKEN-HERE", client);
+const moonapi = require("moonapi.js");
+const dbl = new moonapi("TOKEN-HERE", client);
 
 client.login("BotToken");
 ```
