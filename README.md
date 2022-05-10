@@ -2,13 +2,13 @@
 # NPM Package
 <a href="https://moonbotlist.ga/dc" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png?size=512" alt="Join our discord" width="256"></a><br>
 **Support:** [https://moonbotlist.ga/dc](https://moonbotlist.ga/dc) <br>
-**NPM:** [npmjs.com/package/bhbotlist.js](https://www.npmjs.com/package/bhbotlist.js)<br>
+**NPM:** [npmjs.com/package/moonbotlist.js](https://www.npmjs.com/package/moonbotlist.js)<br>
 
-<a href="https://www.npmjs.com/package/bhbotlist.js/"><img src="https://img.shields.io/npm/v/bhbotlist.js?style=plastic?maxAge=3600" alt="NPM version" /></a>
-<a href="https://www.npmjs.com/package/bhbotlist.js"><img src="https://img.shields.io/npm/dt/bhbotlist.js.svg?maxAge=3600" alt="NPM downloads" /></a>
+<a href="https://www.npmjs.com/package/moonbotlist.js/"><img src="https://img.shields.io/npm/v/moonbotlist.js?style=plastic?maxAge=3600" alt="NPM version" /></a>
+<a href="https://www.npmjs.com/package/moonbotlist.js"><img src="https://img.shields.io/npm/dt/moonbotlist.js.svg?maxAge=3600" alt="NPM downloads" /></a>
 
 
-<a href="https://nodei.co/npm/bhbotlist.js"><img src="https://nodei.co/npm/bhbotlist.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
+<a href="https://nodei.co/npm/moonbotlist.js"><img src="https://nodei.co/npm/moonbotlist.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
 
 ## Installation
 *If you have trouble with the installation, please feel free to visit our [discord](https://moonbotlist.ga/dc) address.*
