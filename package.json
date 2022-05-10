@@ -1,0 +1,34 @@
+{
+  "name": "moonbotlist.js",
+  "version": "1.0.1",
+  "description": "A official www.moonbotlist.xyz api.",
+  "main": "moonbotlist.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MAARAKAM/api.git"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "bhbotlist",
+    "api",
+    "bots",
+    "bot",
+    "vote",
+    "check",
+    "votes",
+    "control",
+    "force"
+  ],
+  "author": "MOONBOTLIST",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MAARAKAM/api/issues"
+  },
+  "homepage": "https://github.com/MAARAKAM/api#readme"
+}
