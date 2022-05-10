@@ -1,8 +1,8 @@
 {
-  "name": "moonbotlist.js",
+  "name": "moonapi.js",
   "version": "1.0.1",
-  "description": "A official www.moonbotlist.xyz api.",
-  "main": "moonbotlist.js",
+  "description": "A official api of moonbotlist.ga .",
+  "main": "moonapi.js",
   "scripts": {
     "test": "!vote"
   },
@@ -15,7 +15,7 @@
     "list",
     "discord",
     "dbl",
-    "bhbotlist",
+    "moonbotlist",
     "api",
     "bots",
     "bot",
