@@ -1,4 +1,4 @@
-# moonbotlist.js
+# moonapi.js
 # NPM Package
 <a href="https://moonbotlist.ga/dc" target="_blank"><img src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png?size=512" alt="Join our discord" width="256"></a><br>
 **Support:** [https://moonbotlist.ga/dc](https://moonbotlist.ga/dc) <br>
